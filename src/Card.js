@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = ({ id, name }) => {
   return (
-    <div className="transition ease-in-out hover:scale-105 duration-300  bg-white max-w-xs rounded p-5 hover:drop-shadow-xl">
+    <div className="transition ease-in-out hover:scale-105 duration-300  bg-white max-w-xs rounded p-5 hover:drop-shadow-xl ">
       <div className="flex justify-center">
         <img
           className="w-24 h-24 rounded-full bg-amber-100 "
